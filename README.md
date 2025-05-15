@@ -90,7 +90,14 @@ export const LANGUAGES = {
 ### ✅ You can now test your frontend with the deployed backend 🫡
 
 ## 📸 Screenshots (Optional)
-<iframe src="https://meefr.github.io/eventhub-website/" width="100%" height="500px"></iframe>
+
+![Home Page Dark](./public/image1.png)
+
+![Home Page Light](./public/image2.png)
+
+![Admin Panel](./public/image3.png)
+
+![Event Details](./public/image4.png)
 
 
 ## 🤝 Contributions
