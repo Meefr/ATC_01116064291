@@ -12,6 +12,20 @@ The platform enables users to discover, book, and manage events, while organizer
 
 ---
 
+## 🔐 Login Credentials for Demo: 
+### Use the following test accounts to explore the platform:
+### 👤 Admin Login:
+```
+Email:    admin@eventhub.com  
+Password: admin123
+```
+### 🙋 User Login:
+```
+Email:    user@eventhub.com  
+Password: user123
+```
+--- 
+
 ## 🛠 Technologies Used
 
 - **Frontend**: React, React Router, Axios
@@ -89,7 +103,7 @@ export const LANGUAGES = {
 
 ### ✅ You can now test your frontend with the deployed backend 🫡
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 ![Home Page Dark](./public/image1.png)
 
